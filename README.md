@@ -10,7 +10,7 @@ Welcome to the official GitHub repository for RuneForged! RuneForged is a captiv
 - **Create:** Engineer intricate contraptions and marvel at your creations.
 - **Immersive Engineering:** Build massive machines and automate your world.
 
-![RuneForged Screenshot](screenshots/screenshot1.png)
+![RuneForged Screenshot](https://cdn.modrinth.com/data/5ZvYEq0V/images/e519e779f219a66b01c7e6cccde3b949d2efc6a2.png)
 
 ### Explore RuneForged
 
